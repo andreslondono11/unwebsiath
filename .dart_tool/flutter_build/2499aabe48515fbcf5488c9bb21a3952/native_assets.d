@@ -1,0 +1,1 @@
+ J:\\PS\ STUDIO\\PRODUCCION\\PROJECT\ SPARKLIS\\unwebsiath2\\.dart_tool\\flutter_build\\2499aabe48515fbcf5488c9bb21a3952\\native_assets.yaml: 

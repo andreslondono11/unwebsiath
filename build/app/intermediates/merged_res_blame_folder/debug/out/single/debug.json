@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-xhdpi_sia.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-xhdpi/sia.png"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/drawable-v21_bg_color.xml.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/drawable-v21/bg_color.xml"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-hdpi_sia.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-hdpi/sia.png"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/drawable-v21_launch_background.xml.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-xxhdpi_sia.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-xxhdpi/sia.png"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-xxxhdpi_sia.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-xxxhdpi/sia.png"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/drawable_launch_background.xml.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-mdpi_sia.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-mdpi/sia.png"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/drawable_bg_color.xml.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/drawable/bg_color.xml"
+    },
+    {
+        "merged": "pstudio.com.unwebsiath2.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "pstudio.com.unwebsiath2.app-main-22:/mipmap-hdpi/ic_launcher.png"
+    }
+]

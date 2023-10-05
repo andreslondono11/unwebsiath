@@ -1,0 +1,4 @@
+#Tue Oct 03 19:50:07 COT 2023
+base.0=J\:\\PS STUDIO\\PRODUCCION\\PROJECT SPARKLIS\\unwebsiath2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
